@@ -1,2 +1,1 @@
-#!/bin/bash
-The command to pring working directory is 'pwd'
+pwd
