@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Listing all local variables:"
+declare -p
+
+echo ""
+echo "Listing all environment variables:"
+env
+
+echo ""
+echo "Listing all functions:"
+declare -f
